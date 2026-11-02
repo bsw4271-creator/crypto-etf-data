@@ -1,0 +1,40 @@
+name: ETF 자료 수집
+
+on:
+  schedule:
+    # 한국시간 10:17, 16:17 (미국 거래일 다음 날 아침 + 늦은 정정 반영)
+    - cron: "17 1,7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: 시험
+        run: node --test tests/*.test.mjs
+      - name: 수집
+        env:
+          CRYPTOETF_API_KEY: ${{ secrets.CRYPTOETF_API_KEY }}
+          COINGECKO_DEMO_KEY: ${{ secrets.COINGECKO_DEMO_KEY }}
+        run: node collect.mjs
+      - name: 저장
+        run: |
+          git config user.name "etf-collector"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -q -m "ETF 자료 수집 $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
