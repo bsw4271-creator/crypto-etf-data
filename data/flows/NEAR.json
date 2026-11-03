@@ -1,0 +1,112 @@
+{
+ "asset": "NEAR",
+ "unit": "USD",
+ "source": "CryptoETF.today",
+ "rows": {
+  "2026-10-05": {
+   "netFlowUsd": 500000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-06": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-07": {
+   "netFlowUsd": 3300000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-08": {
+   "netFlowUsd": 4000000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-09": {
+   "netFlowUsd": 5100000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-12": {
+   "netFlowUsd": 4000000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-13": {
+   "netFlowUsd": 3900000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-14": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-15": {
+   "netFlowUsd": 1100000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-16": {
+   "netFlowUsd": 2600000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-19": {
+   "netFlowUsd": 5400000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-20": {
+   "netFlowUsd": -2500000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-21": {
+   "netFlowUsd": 800000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-22": {
+   "netFlowUsd": 500000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-23": {
+   "netFlowUsd": 1000000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-26": {
+   "netFlowUsd": 1400000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-27": {
+   "netFlowUsd": -4800000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-28": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-29": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-10-30": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  },
+  "2026-11-02": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.337Z"
+  }
+ }
+}

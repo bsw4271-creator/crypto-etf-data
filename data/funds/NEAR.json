@@ -1,0 +1,259 @@
+{
+ "asset": "NEAR",
+ "unit": "USD",
+ "source": "CryptoETF.today",
+ "rows": {
+  "2026-10-05": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 500000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-06": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-07": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 3300000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-08": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 4000000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-09": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 5100000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-12": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 4000000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-13": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 3900000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-14": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-15": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 1100000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-16": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 2600000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-19": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 5400000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-20": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": -2500000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-21": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 800000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-22": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 500000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-23": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 1000000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-26": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 1400000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-27": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": -4800000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-28": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-29": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-10-30": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-11-02": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  }
+ }
+}

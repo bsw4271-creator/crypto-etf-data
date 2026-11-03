@@ -1,0 +1,112 @@
+{
+ "asset": "LTC",
+ "unit": "USD",
+ "source": "CryptoETF.today",
+ "rows": {
+  "2026-10-05": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-06": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-07": {
+   "netFlowUsd": 500000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-08": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-09": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-12": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-13": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-14": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-15": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-16": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-19": {
+   "netFlowUsd": 600000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-20": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-21": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-22": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-23": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-26": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-27": {
+   "netFlowUsd": -300000,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-28": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-29": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-10-30": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  },
+  "2026-11-02": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-03T12:33:08.610Z",
+   "sourceUpdatedAt": "2026-11-03T12:33:17.548Z"
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "runAt": "2026-11-03T12:33:08.610Z",
+ "flows": {
+  "BTC": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 30
+  },
+  "ETH": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 30
+  },
+  "SOL": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 30
+  },
+  "XRP": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 30
+  },
+  "HYPE": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 30
+  },
+  "LTC": {
+   "ok": true,
+   "added": 21,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 21
+  },
+  "NEAR": {
+   "ok": true,
+   "added": 21,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 21
+  },
+  "ZEC": {
+   "ok": true,
+   "added": 21,
+   "revised": 0,
+   "latestDate": "2026-11-02",
+   "totalDays": 21
+  }
+ },
+ "funds": {
+  "XRP": {
+   "ok": true,
+   "added": 21,
+   "revised": 0,
+   "latestDate": "2026-11-02"
+  },
+  "LTC": {
+   "ok": true,
+   "added": 21,
+   "revised": 0,
+   "latestDate": "2026-11-02"
+  },
+  "NEAR": {
+   "ok": true,
+   "added": 21,
+   "revised": 0,
+   "latestDate": "2026-11-02"
+  }
+ },
+ "market": {
+  "BTC": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "ETH": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "SOL": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "XRP": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "HYPE": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "LTC": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "NEAR": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  },
+  "ZEC": {
+   "ok": true,
+   "added": 30,
+   "revised": 0,
+   "latestDate": "2026-11-03"
+  }
+ }
+}
