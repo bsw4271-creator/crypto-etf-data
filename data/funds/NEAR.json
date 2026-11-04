@@ -254,6 +254,18 @@
    "complete": true,
    "fetchedAt": "2026-11-03T12:33:08.610Z",
    "sourceUpdatedAt": "2026-11-03T12:33:19.455Z"
+  },
+  "2026-11-03": {
+   "funds": [
+    {
+     "ticker": "NRR",
+     "issuer": "Bitwise",
+     "netFlowUsd": -3600000
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-04T02:04:21.341Z",
+   "sourceUpdatedAt": "2026-11-04T02:04:32.793Z"
   }
  }
 }
