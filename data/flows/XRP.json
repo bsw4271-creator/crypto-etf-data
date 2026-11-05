@@ -162,6 +162,11 @@
    "netFlowUsd": 0,
    "fetchedAt": "2026-11-05T02:17:26.470Z",
    "sourceUpdatedAt": "2026-11-05T02:17:32.260Z"
+  },
+  "2026-11-05": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-05T15:26:24.451Z",
+   "sourceUpdatedAt": "2026-11-05T15:26:30.684Z"
   }
  }
 }
