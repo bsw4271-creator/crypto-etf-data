@@ -171,9 +171,16 @@
    "sourceUpdatedAt": "2026-11-05T02:17:30.572Z"
   },
   "2026-11-05": {
-   "netFlowUsd": 0,
-   "fetchedAt": "2026-11-05T15:26:24.451Z",
-   "sourceUpdatedAt": "2026-11-05T15:26:28.958Z"
+   "netFlowUsd": -800000,
+   "fetchedAt": "2026-11-06T07:54:00.814Z",
+   "sourceUpdatedAt": "2026-11-06T07:54:04.778Z",
+   "revisions": [
+    {
+     "field": "netFlowUsd",
+     "previous": 0,
+     "replacedAt": "2026-11-06T07:54:00.814Z"
+    }
+   ]
   }
  }
 }

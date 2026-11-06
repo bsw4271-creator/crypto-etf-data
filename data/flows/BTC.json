@@ -166,21 +166,33 @@
    ]
   },
   "2026-11-04": {
-   "netFlowUsd": 74600000,
-   "fetchedAt": "2026-11-05T15:26:24.451Z",
-   "sourceUpdatedAt": "2026-11-05T15:26:25.507Z",
+   "netFlowUsd": 70600000,
+   "fetchedAt": "2026-11-06T07:54:00.814Z",
+   "sourceUpdatedAt": "2026-11-06T07:54:01.391Z",
    "revisions": [
     {
      "field": "netFlowUsd",
      "previous": 15200000,
      "replacedAt": "2026-11-05T15:26:24.451Z"
+    },
+    {
+     "field": "netFlowUsd",
+     "previous": 74600000,
+     "replacedAt": "2026-11-06T07:54:00.814Z"
     }
    ]
   },
   "2026-11-05": {
-   "netFlowUsd": 0,
-   "fetchedAt": "2026-11-05T15:26:24.451Z",
-   "sourceUpdatedAt": "2026-11-05T15:26:25.507Z"
+   "netFlowUsd": -430200000,
+   "fetchedAt": "2026-11-06T07:54:00.814Z",
+   "sourceUpdatedAt": "2026-11-06T07:54:01.391Z",
+   "revisions": [
+    {
+     "field": "netFlowUsd",
+     "previous": 0,
+     "replacedAt": "2026-11-06T07:54:00.814Z"
+    }
+   ]
   }
  }
 }
