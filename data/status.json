@@ -1,40 +1,40 @@
 {
- "runAt": "2026-11-08T07:17:49.345Z",
+ "runAt": "2026-11-09T07:55:20.040Z",
  "flows": {
   "BTC": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-07",
-   "totalDays": 35
+   "latestDate": "2026-11-08",
+   "totalDays": 36
   },
   "ETH": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-07",
-   "totalDays": 35
+   "latestDate": "2026-11-08",
+   "totalDays": 36
   },
   "SOL": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-07",
-   "totalDays": 35
+   "latestDate": "2026-11-08",
+   "totalDays": 36
   },
   "XRP": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-07",
-   "totalDays": 35
+   "latestDate": "2026-11-08",
+   "totalDays": 36
   },
   "HYPE": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-07",
-   "totalDays": 35
+   "latestDate": "2026-11-08",
+   "totalDays": 36
   },
   "LTC": {
    "ok": true,
@@ -83,49 +83,49 @@
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "ETH": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "SOL": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "XRP": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "HYPE": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "LTC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "NEAR": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   },
   "ZEC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-08"
+   "latestDate": "2026-11-09"
   }
  }
 }
