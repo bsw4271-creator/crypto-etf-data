@@ -215,9 +215,21 @@
    "sourceUpdatedAt": "2026-11-09T07:55:20.505Z"
   },
   "2026-11-09": {
-   "netFlowUsd": -201000000,
-   "fetchedAt": "2026-11-10T08:23:52.676Z",
-   "sourceUpdatedAt": "2026-11-10T08:23:53.267Z"
+   "netFlowUsd": -201100000,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "sourceUpdatedAt": "2026-11-11T07:43:51.955Z",
+   "revisions": [
+    {
+     "field": "netFlowUsd",
+     "previous": -201000000,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
+  },
+  "2026-11-10": {
+   "netFlowUsd": -95000000,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "sourceUpdatedAt": "2026-11-11T07:43:51.955Z"
   }
  }
 }

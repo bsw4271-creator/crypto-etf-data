@@ -71,28 +71,63 @@
   },
   "2026-10-18": {
    "priceUsd": 81408.34521320867,
-   "marketCapUsd": 1636213549330.0825,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1636287386699.191,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1636213549330.0825,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-10-19": {
    "priceUsd": 82019.58291286718,
-   "marketCapUsd": 1648498719891.2,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1648613629326.861,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1648498719891.2,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-10-20": {
    "priceUsd": 81875.26391574314,
-   "marketCapUsd": 1645598075026.0867,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1645751918646.9844,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1645598075026.0867,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-10-21": {
    "priceUsd": 82943.83149973174,
-   "marketCapUsd": 1667075047131.5627,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1667273697608.0046,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1667075047131.5627,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-10-22": {
    "priceUsd": 84082.26646319703,
-   "marketCapUsd": 1689956272727.9624,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1690197252503.6458,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1689956272727.9624,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-10-23": {
    "priceUsd": 81328.20561459455,
@@ -136,43 +171,99 @@
   },
   "2026-10-31": {
    "priceUsd": 77275.05222635057,
-   "marketCapUsd": 1553643130404.8408,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1553686404434.0876,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1553643130404.8408,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-01": {
    "priceUsd": 77520.88632950958,
-   "marketCapUsd": 1558585714778.3003,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1558665018645.0154,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1558585714778.3003,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-02": {
    "priceUsd": 78293.83909746421,
-   "marketCapUsd": 1574126212305.7886,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1574242243775.331,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1574126212305.7886,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-03": {
    "priceUsd": 76709.40534304293,
-   "marketCapUsd": 1542270593354.8284,
-   "fetchedAt": "2026-11-03T12:33:08.610Z"
+   "marketCapUsd": 1542414730327.468,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1542270593354.8284,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-04": {
    "priceUsd": 77384.58950168235,
-   "marketCapUsd": 1555845417306.4917,
-   "fetchedAt": "2026-11-04T02:04:21.341Z"
+   "marketCapUsd": 1556024640015.7776,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1555845417306.4917,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-05": {
    "priceUsd": 80442.71214714671,
-   "marketCapUsd": 1617330089308.3184,
-   "fetchedAt": "2026-11-05T02:17:26.470Z"
+   "marketCapUsd": 1617552352521.981,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1617330089308.3184,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-06": {
    "priceUsd": 76005.50915811297,
-   "marketCapUsd": 1528118503634.7039,
-   "fetchedAt": "2026-11-06T07:54:00.814Z"
+   "marketCapUsd": 1528359897131.79,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1528118503634.7039,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-07": {
    "priceUsd": 75775.28148740849,
-   "marketCapUsd": 1523663975429.5115,
-   "fetchedAt": "2026-11-07T07:05:47.649Z"
+   "marketCapUsd": 1523762559070.7268,
+   "fetchedAt": "2026-11-11T07:43:51.272Z",
+   "revisions": [
+    {
+     "field": "marketCapUsd",
+     "previous": 1523663975429.5115,
+     "replacedAt": "2026-11-11T07:43:51.272Z"
+    }
+   ]
   },
   "2026-11-08": {
    "priceUsd": 75776.37720009114,
@@ -188,6 +279,11 @@
    "priceUsd": 75266.76731147344,
    "marketCapUsd": 1513618905572.7002,
    "fetchedAt": "2026-11-10T08:23:52.676Z"
+  },
+  "2026-11-11": {
+   "priceUsd": 73721.18379734851,
+   "marketCapUsd": 1482559250906.1104,
+   "fetchedAt": "2026-11-11T07:43:51.272Z"
   }
  }
 }
