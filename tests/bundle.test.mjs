@@ -32,7 +32,7 @@ function fixture() {
   return { status, flows, funds, market };
 }
 
-test("형식: 스키마·키 순서·8종 고정, 60일 창, 주말 제외, 날짜 오름차순", () => {
+test("형식: 스키마·키 순서·8종 고정, 60일 창, 유출입 주말 제외·시장 주말 포함, 날짜 오름차순", () => {
   const { bundle, text, bytes } = buildOsBundle(fixture(), { now: NOW });
   assert.deepEqual(Object.keys(bundle), ["schemaVersion", "generatedAt", "run", "window", "assets"]);
   assert.equal(bundle.schemaVersion, BUNDLE_SCHEMA);
@@ -44,15 +44,17 @@ test("형식: 스키마·키 순서·8종 고정, 60일 창, 주말 제외, 날�
   assert.equal(bytes, Buffer.byteLength(text));
   for (const a of Object.values(bundle.assets)) {
     assert.deepEqual(Object.keys(a), ["coinId", "flows", "funds", "market"]);
-    for (const rows of [a.flows.rows, a.market.rows, a.funds?.rows ?? []]) {
+    for (const [kind, rows] of [["flows", a.flows.rows], ["market", a.market.rows], ["funds", a.funds?.rows ?? []]]) {
       const dates = rows.map((r) => r[0]);
       assert.deepEqual(dates, [...dates].sort());
       assert.equal(new Set(dates).size, dates.length);
       for (const d of dates) {
         assert(d >= "2026-09-13" && d <= "2026-11-11", d);
-        assert(![0, 6].includes(new Date(d + "T12:00:00Z").getUTCDay()), "weekend " + d);
+        if (kind !== "market") assert(![0, 6].includes(new Date(d + "T12:00:00Z").getUTCDay()), "weekend " + d);
       }
     }
+    // OS는 금요일 유출입에 토요일 UTC 00:00 시총을 쓴다: 시장 자료의 토요일 행이 있어야 한다.
+    assert(a.market.rows.some((r) => new Date(r[0] + "T12:00:00Z").getUTCDay() === 6), "market keeps Saturday");
   }
   assert.equal(bundle.assets.BTC.flows.rows.at(-1)[0], "2026-11-10");
   assert.equal(bundle.assets.BTC.market.rows.at(-1)[0], "2026-11-11");
