@@ -3,6 +3,7 @@
 // - 실패한 종목은 기존 자료를 그대로 두고 건너뛴다. 누락을 0으로 채우지 않는다.
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { ASSETS, parseAssetFlows, parseFundFlows, parseMarketChart, mergeRows, sortByDate } from "./lib/parse.mjs";
+import { writeOsBundle } from "./lib/bundle.mjs";
 
 const CRYPTOETF = "https://api.cryptoetf.today/api/v1";
 const COINGECKO = "https://api.coingecko.com/api/v3";
@@ -104,6 +105,11 @@ for (const [asset, cfg] of Object.entries(ASSETS)) {
 }
 
 await save("data/status.json", status);
+
+// 3) OS용 묶음 파일 (위에서 저장한 data/ 파일만 읽는다). 실패해도 수집 자료 저장·종료 코드에는 영향 없음.
+const bundle = await writeOsBundle({ now: new Date() });
+console.log(JSON.stringify({ bundle }));
+
 const parts = [status.flows, status.market];
 const okCount = parts.flatMap((p) => Object.values(p)).filter((x) => x.ok).length;
 console.log(JSON.stringify({ runAt: fetchedAt, ok: okCount, flows: Object.fromEntries(Object.entries(status.flows).map(([a, s]) => [a, s.ok ? s.latestDate : s.error])), market: Object.fromEntries(Object.entries(status.market).map(([a, s]) => [a, s.ok ? s.latestDate : s.error])) }));
