@@ -1,40 +1,40 @@
 {
- "runAt": "2026-11-15T07:49:48.745Z",
+ "runAt": "2026-11-16T07:57:08.246Z",
  "flows": {
   "BTC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-14",
-   "totalDays": 42
+   "latestDate": "2026-11-15",
+   "totalDays": 43
   },
   "ETH": {
    "ok": true,
    "added": 1,
-   "revised": 1,
-   "latestDate": "2026-11-14",
-   "totalDays": 42
+   "revised": 0,
+   "latestDate": "2026-11-15",
+   "totalDays": 43
   },
   "SOL": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-14",
-   "totalDays": 42
+   "latestDate": "2026-11-15",
+   "totalDays": 43
   },
   "XRP": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-14",
-   "totalDays": 42
+   "latestDate": "2026-11-15",
+   "totalDays": 43
   },
   "HYPE": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-14",
-   "totalDays": 42
+   "latestDate": "2026-11-15",
+   "totalDays": 43
   },
   "LTC": {
    "ok": true,
@@ -83,49 +83,49 @@
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "ETH": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "SOL": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "XRP": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "HYPE": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "LTC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "NEAR": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   },
   "ZEC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15"
+   "latestDate": "2026-11-16"
   }
  }
 }
