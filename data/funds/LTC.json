@@ -362,6 +362,18 @@
    "complete": true,
    "fetchedAt": "2026-11-14T07:35:40.145Z",
    "sourceUpdatedAt": "2026-11-14T07:35:49.462Z"
+  },
+  "2026-11-16": {
+   "funds": [
+    {
+     "ticker": "LTCC",
+     "issuer": "Canary",
+     "netFlowUsd": 0
+    }
+   ],
+   "complete": true,
+   "fetchedAt": "2026-11-17T09:11:12.353Z",
+   "sourceUpdatedAt": "2026-11-17T09:11:21.891Z"
   }
  }
 }

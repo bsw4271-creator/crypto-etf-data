@@ -1,81 +1,81 @@
 {
- "runAt": "2026-11-16T07:57:08.246Z",
+ "runAt": "2026-11-17T09:11:12.353Z",
  "flows": {
   "BTC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15",
-   "totalDays": 43
+   "latestDate": "2026-11-16",
+   "totalDays": 44
   },
   "ETH": {
    "ok": true,
    "added": 1,
-   "revised": 0,
-   "latestDate": "2026-11-15",
-   "totalDays": 43
+   "revised": 1,
+   "latestDate": "2026-11-16",
+   "totalDays": 44
   },
   "SOL": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15",
-   "totalDays": 43
+   "latestDate": "2026-11-16",
+   "totalDays": 44
   },
   "XRP": {
    "ok": true,
    "added": 1,
-   "revised": 0,
-   "latestDate": "2026-11-15",
-   "totalDays": 43
+   "revised": 1,
+   "latestDate": "2026-11-16",
+   "totalDays": 44
   },
   "HYPE": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-15",
-   "totalDays": 43
+   "latestDate": "2026-11-16",
+   "totalDays": 44
   },
   "LTC": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-13",
-   "totalDays": 30
+   "latestDate": "2026-11-16",
+   "totalDays": 31
   },
   "NEAR": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-13",
-   "totalDays": 30
+   "latestDate": "2026-11-16",
+   "totalDays": 31
   },
   "ZEC": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-13",
-   "totalDays": 30
+   "latestDate": "2026-11-16",
+   "totalDays": 31
   }
  },
  "funds": {
   "XRP": {
    "ok": true,
-   "added": 0,
-   "revised": 0,
-   "latestDate": "2026-11-13"
+   "added": 1,
+   "revised": 1,
+   "latestDate": "2026-11-16"
   },
   "LTC": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-13"
+   "latestDate": "2026-11-16"
   },
   "NEAR": {
    "ok": true,
-   "added": 0,
+   "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-13"
+   "latestDate": "2026-11-16"
   }
  },
  "market": {
@@ -83,49 +83,49 @@
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "ETH": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "SOL": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "XRP": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "HYPE": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "LTC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "NEAR": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   },
   "ZEC": {
    "ok": true,
    "added": 1,
    "revised": 0,
-   "latestDate": "2026-11-16"
+   "latestDate": "2026-11-17"
   }
  }
 }
