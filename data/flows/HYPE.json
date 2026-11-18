@@ -243,6 +243,11 @@
    "netFlowUsd": -7900000,
    "fetchedAt": "2026-11-17T09:11:12.353Z",
    "sourceUpdatedAt": "2026-11-17T09:11:19.997Z"
+  },
+  "2026-11-17": {
+   "netFlowUsd": -1500000,
+   "fetchedAt": "2026-11-18T08:30:02.355Z",
+   "sourceUpdatedAt": "2026-11-18T08:30:10.139Z"
   }
  }
 }
