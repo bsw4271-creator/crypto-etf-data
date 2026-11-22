@@ -1439,7 +1439,7 @@
     {
      "ticker": "XRPC",
      "issuer": "Canary",
-     "netFlowUsd": 0
+     "netFlowUsd": -100000
     },
     {
      "ticker": "XRP",
@@ -1463,8 +1463,41 @@
     }
    ],
    "complete": true,
-   "fetchedAt": "2026-11-21T08:15:33.198Z",
-   "sourceUpdatedAt": "2026-11-21T08:15:39.237Z"
+   "fetchedAt": "2026-11-22T07:58:00.469Z",
+   "sourceUpdatedAt": "2026-11-22T07:58:06.276Z",
+   "revisions": [
+    {
+     "field": "funds",
+     "previous": [
+      {
+       "ticker": "XRPC",
+       "issuer": "Canary",
+       "netFlowUsd": 0
+      },
+      {
+       "ticker": "XRP",
+       "issuer": "Bitwise",
+       "netFlowUsd": -5200000
+      },
+      {
+       "ticker": "XRPZ",
+       "issuer": "Franklin Templeton",
+       "netFlowUsd": 0
+      },
+      {
+       "ticker": "TOXR",
+       "issuer": "21Shares",
+       "netFlowUsd": 0
+      },
+      {
+       "ticker": "GXRP",
+       "issuer": "Grayscale",
+       "netFlowUsd": 0
+      }
+     ],
+     "replacedAt": "2026-11-22T07:58:00.469Z"
+    }
+   ]
   }
  }
 }
