@@ -278,6 +278,11 @@
    "netFlowUsd": 0,
    "fetchedAt": "2026-11-24T10:53:38.427Z",
    "sourceUpdatedAt": "2026-11-24T10:53:46.505Z"
+  },
+  "2026-11-24": {
+   "netFlowUsd": -1700000,
+   "fetchedAt": "2026-11-25T09:49:25.302Z",
+   "sourceUpdatedAt": "2026-11-25T09:49:33.262Z"
   }
  }
 }
