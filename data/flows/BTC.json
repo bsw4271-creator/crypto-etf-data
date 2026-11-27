@@ -271,9 +271,9 @@
    "sourceUpdatedAt": "2026-11-16T07:57:08.462Z"
   },
   "2026-11-16": {
-   "netFlowUsd": 4300000,
-   "fetchedAt": "2026-11-19T08:45:34.835Z",
-   "sourceUpdatedAt": "2026-11-19T08:45:35.414Z",
+   "netFlowUsd": 8000000,
+   "fetchedAt": "2026-11-27T09:39:13.349Z",
+   "sourceUpdatedAt": "2026-11-27T09:39:13.906Z",
    "revisions": [
     {
      "field": "netFlowUsd",
@@ -284,18 +284,28 @@
      "field": "netFlowUsd",
      "previous": 8000000,
      "replacedAt": "2026-11-19T08:45:34.835Z"
+    },
+    {
+     "field": "netFlowUsd",
+     "previous": 4300000,
+     "replacedAt": "2026-11-27T09:39:13.349Z"
     }
    ]
   },
   "2026-11-17": {
-   "netFlowUsd": -236300000,
-   "fetchedAt": "2026-11-20T08:30:22.309Z",
-   "sourceUpdatedAt": "2026-11-20T08:30:23.194Z",
+   "netFlowUsd": -239900000,
+   "fetchedAt": "2026-11-27T09:39:13.349Z",
+   "sourceUpdatedAt": "2026-11-27T09:39:13.906Z",
    "revisions": [
     {
      "field": "netFlowUsd",
      "previous": -239900000,
      "replacedAt": "2026-11-20T08:30:22.309Z"
+    },
+    {
+     "field": "netFlowUsd",
+     "previous": -236300000,
+     "replacedAt": "2026-11-27T09:39:13.349Z"
     }
    ]
   },
@@ -354,6 +364,16 @@
    "netFlowUsd": -231500000,
    "fetchedAt": "2026-11-25T09:49:25.302Z",
    "sourceUpdatedAt": "2026-11-25T09:49:26.368Z"
+  },
+  "2026-11-25": {
+   "netFlowUsd": -453000000,
+   "fetchedAt": "2026-11-27T09:39:13.349Z",
+   "sourceUpdatedAt": "2026-11-27T09:39:13.906Z"
+  },
+  "2026-11-26": {
+   "netFlowUsd": 0,
+   "fetchedAt": "2026-11-27T09:39:13.349Z",
+   "sourceUpdatedAt": "2026-11-27T09:39:13.906Z"
   }
  }
 }
