@@ -366,14 +366,26 @@
    "sourceUpdatedAt": "2026-11-25T09:49:26.368Z"
   },
   "2026-11-25": {
-   "netFlowUsd": -453000000,
-   "fetchedAt": "2026-11-27T09:39:13.349Z",
-   "sourceUpdatedAt": "2026-11-27T09:39:13.906Z"
+   "netFlowUsd": -453100000,
+   "fetchedAt": "2026-11-28T08:53:34.293Z",
+   "sourceUpdatedAt": "2026-11-28T08:53:34.730Z",
+   "revisions": [
+    {
+     "field": "netFlowUsd",
+     "previous": -453000000,
+     "replacedAt": "2026-11-28T08:53:34.293Z"
+    }
+   ]
   },
   "2026-11-26": {
    "netFlowUsd": 0,
    "fetchedAt": "2026-11-27T09:39:13.349Z",
    "sourceUpdatedAt": "2026-11-27T09:39:13.906Z"
+  },
+  "2026-11-27": {
+   "netFlowUsd": -389100000,
+   "fetchedAt": "2026-11-28T08:53:34.293Z",
+   "sourceUpdatedAt": "2026-11-28T08:53:34.730Z"
   }
  }
 }
